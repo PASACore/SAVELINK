@@ -9,5 +9,3 @@
 
 🤔 Peki, bunu neden yaptım?
 >>:İnsanların saçma sapan siteler yüzünden virüs yemelerini ve YouTube Premium adı altında her ay para ödemelerini istemiyorum!
-
-Sistemin köpeği olmayın //Ben PaşaCore :)
