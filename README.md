@@ -1,4 +1,4 @@
-# SAVELINK
+# SAVELINK📥
 ## PURPOSE
 ### English
 SAVELINK is a simple, open-source application for downloading YouTube videos in the highest available resolution, without worrying about viruses.
